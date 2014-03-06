@@ -12,13 +12,13 @@
   "author": "Leon Mergen <leon@solatis.com>",
   "main": "./index.js",
   "license": "MIT",
-  "homepage": "https://github.com/solatis/karma-js-chai-factories",
+  "homepage": "https://github.com/solatis/karma-chai-js-factories",
   "repository": {
     "type": "git",
-    "url": "https://github.com/solatis/karma-js-chai-factories.git"
+    "url": "https://github.com/solatis/karma-chai-js-factories.git"
   },
   "bugs": {
-    "url": "https://github.com/solatis/karma-js-chai-factories/issues"
+    "url": "https://github.com/solatis/karma-chai-js-factories/issues"
   },
   "dependencies": {
     "chai-js-factories": "~0.1",
