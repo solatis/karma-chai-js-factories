@@ -1,4 +1,4 @@
-karma-chai-factories
+karma-chai-js-factories
 ================
 
   * [Chai](http://chaijs.com)
