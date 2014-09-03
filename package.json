@@ -21,11 +21,11 @@
     "url": "https://github.com/solatis/karma-chai-js-factories/issues"
   },
   "dependencies": {
-    "chai-js-factories": "~0.1",
-    "js-factories": "~1",
-    "path": "~0.4"
+    "chai-js-factories": "^0.1.3",
+    "js-factories": "^1.1.1",
+    "path": "^0.4.9"
   },
   "peerDependencies": {
-    "karma": ">=0.10"
+    "karma": ">=0.12"
   }
 }
