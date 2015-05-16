@@ -5,7 +5,7 @@
     "karma",
     "chai",
     "factories",
-    "js-fatories",
+    "js-factories",
     "chai-js-factories"
   ],
   "version": "0.1.1",
